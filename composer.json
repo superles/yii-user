@@ -1,0 +1,9 @@
+{
+"name": "mishamx/yii-user",
+   
+    "autoload": {
+        "classmap": [
+            "components/"
+            
+        ]
+    }
